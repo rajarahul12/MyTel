@@ -1,0 +1,12 @@
+{
+  "platforms": [
+    {
+      "applicationKey": {
+        "version": "1.0.0",
+        "clientPlatform": "ios",
+        "bundleId": "com.mytel"
+      },
+      "displayName": "MyTel"
+    }
+  ]
+}
